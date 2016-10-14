@@ -1,5 +1,0 @@
-nltk==3.2.1
-oauthlib==2.0.0
-requests==2.11.1
-requests-oauthlib==0.7.0
-twython==3.4.0
