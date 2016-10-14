@@ -16,7 +16,7 @@ $ python
 >>> nltk.download()
 ```
 
-![download]('./images/vader_lexicon.png')
+![download]('https://raw.githubusercontent.com/kiyomaro927/vader_test/images/vader_lexicon.png')
 
 ## Test
 
